@@ -25,3 +25,26 @@
 
 
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ #
+
+
+# print('text' or variable or number)
+# The print() function prints the 'text', number, or value of 
+# the variable inside the braket and then adds a newline.
+# To print multiple items, use a comma (,)
+#If you use print() with nothing inside, it prints an empty line
+
+# name = 'Python'
+# age = 28
+# hieght = 188
+# print(name)
+# print()         # print an empty line
+# print(age)
+# print(hieght)
+# print('hi')
+# print()
+# print(5)
+# print(5*10)
+# print(name, age, "hello")
+
+
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ #
